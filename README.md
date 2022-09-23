@@ -6,6 +6,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+##library used and its installation Command: npm install axios bootstrap reactstrap react-icons faker react-tostify
+
 ### `npm start`
 
 Runs the app in the development mode.\
